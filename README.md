@@ -53,7 +53,8 @@ A 23Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 <br>
 
 <div align="center">
-![](https://komarev.com/ghpvc/?username=rishabhbanshi)
+
+  ![](https://komarev.com/ghpvc/?username=rishabhbanshi&label=PROFILE+VIEWS)
 
 
 ### Show some ❤️ by starring ⭐ some of the repositories!
