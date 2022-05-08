@@ -61,7 +61,7 @@ A 23Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rishabh-banshi/)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://rishabhbanshi.github.io/PersonalWeb/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://portfolio-rishabh.vercel.app/)
 
 </div>
 
