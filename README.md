@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm a Software and Web Developer from India ❤</h3>
   
-A 23Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building Applications , exploring scalability problems and improving efficiency and performance. 
+A 28Y/O Software developer🎯 from India with 5yrs of Experience in building Scalable Systems. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building Applications , exploring scalability problems and improving efficiency and performance. 
 
 
 ![age](https://img.shields.io/badge/age-23-blue)
@@ -13,7 +13,7 @@ A 23Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning NodeJs, Python and ReactJs
+- 🌱 Profeciency in Typescript,Javascript,NodeJS,Python,React JS,NextJs,VueJs,Sql,Mongo,Redis,Kafka
 - 👯 I’m looking to collaborate on  Web Dev and Software Development
 - 📫 How to reach me: You may follow me on [Mail](rishabh.banshi@gmail.com) or [Linkedin](https://www.linkedin.com/in/rishabh-banshi/) 
 <br />
